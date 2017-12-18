@@ -1,0 +1,108 @@
+<html>
+<head>
+ 
+  <title>Al-Arabi Mobile</title>
+  <meta charset="UTF-8">
+  
+</head>
+ 
+  <body>
+    <h1>Al-Arabi Mobile</h1>
+    <ul>
+      <li><a href="#Us-About">About Us</a></li>
+      <li><a href="#Company-About">About the Company</a></li>
+      <li><a href="#Services-Our">Our Services</a></li>
+      <li><a href="#Offers Our">Our Special Offers<a/></li>
+    </ul>
+    <img src="data:image/jpeg;base64,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" alt="iphone 8" width="200">
+    <img src="https://cdn57.androidauthority.net/wp-content/uploads/2017/03/Samsung-Galaxy-S8-home-screens-4-840x472.jpg" alt= "samsung" width="225">
+    <img src="https://www.thesun.co.uk/wp-content/uploads/2016/09/nintchdbpict000266677244-e1473852629732.jpg?strip=all&w=960" alt="note" width="190">
+    <img src="https://cdn.macrumors.com/article-new/2017/02/samsung-galaxy-book-official-render-1-800x566.jpg" alt= "tablet" width="175">
+    <img src="https://s3-eu-west-1.amazonaws.com/cdn.cobone.com/deals/electronics/unoo-maintenance/mobile/bigmobilerepair.jpg?v=6" alt= "maintenance" width= "245">
+    <img src= "https://3.imimg.com/data3/RS/YK/MY-14443389/mobile-hardware-repairing-250x250.jpg" alt= "fix" width= "185">
+    
+    <h2 id="Us-About">About Us:<h2>
+    <h3>Name of Company:</h3>
+      <p>
+        <strong>Al-Arabi Mobile</strong>
+      </p>
+      <h3>Address of the Company:</h3>
+   
+  <p>
+    <strong>Address of the Company: 28 Perieas st. Athens.</strong>
+    
+  </p>
+       <h2 id="Company-About">About the Company:</h2>
+      <ul>
+        <li>Al-Arabi Mobile is a one stop mobile solution shop that provides, multi brand handsets, multi brand mobiles, accessories, all under one roof.</li>
+        <li>Al-Arabi Mobile has over 2 outlets and the vision is to have a network all across City, thus covering virtually every major town in every Islands across Greece.</li>
+        <li> Al-Arabi Mobile categorized its mobile device offerings into consumer segments keeping in mind the profiles and needs of different cosumers.</li>
+        <li> Al-Arabi Mobile one of the leading and reputed service provider offering mobile services. The professionals at our firm have years of experience in this domain and thereby ensures best mobile servicing to the customers. Customers can get their mobile phones repaired at very nominal charges.</li>
+        <li>Al-Arabi Mobile has the advantage of guaranteeing all the maintenance work that is accomplished.
+We guarantee you the accuracy of the dates, since the time is invaluable, so the accuracy of the delivery deadline has value too. In addition, we also guarantee that you will save money as the prices provided by us are carefully considered to compete with the lowest price in the market, as well as the quality and accuracy of the work provided.</li>
+        <li>Al-Arabi Mobile has the advantage of having a maintenance team with long years of experience and more than ten years of experience and professionalism in the maintenance of all types of mobile devices.</li>
+        </ul> 
+       
+      <h3>The unique segments available in Shop:</h3>
+        <p> 
+        <em>Business</em>- PDA & Smartphones, Emails,data transfer etc..<br>
+        <em>Lifestyle</em>- Fashion Phones, Look and elegance.<br>
+        <em>Value for Money</em> -Special offers, discounts and budget phones.<br>
+        </p>  
+       
+      <p>  
+      </p>
+        <h2 id="Services-Our">Our Services:</h2>
+      <ol>
+        <li>Sale All devices brand</li>
+        <li>buy used mobiles in good value</li>
+        <li>Change used with other</li>
+        <li>Maintainance services</li>
+        <li>Hardware & Software</li>
+        </ol>
+        <h2 id="Offers Our">Our Special Offers:</h2>
+  <p>
+  </p>
+        
+        <table>
+          <thead>
+            <tr>
+              <th>Mobile Brand</th>
+              <th>Problem</th>
+              <th>Price</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr> 
+              <td>Samsung J7</td>
+              <td>Touch Scrn.</td>
+              <td>85 Euro</th>
+           </tr>
+           <tr>
+             <td>Iphone 6+</td>
+             <td>Charge Base</td>
+             <td>25 Euro</td>
+           </tr> 
+           <tr>
+             <td>Samsung S7</td>
+             <td>Touch Scrn.</td>
+             <td>175 Euro</td>
+           </tr>
+            <tr>
+             <td>Huawei P8</td>
+             <td>Touch Scrn.</td>
+             <td>70 Euro</td>
+           </tr>
+           <tr>
+             <td>All Mobiles</td>
+             <td>Software</td>
+             <td>10 Euro</td>
+           </tr>
+           
+          </tbody>
+      </table>
+        
+
+  </body>
+</html>
+      
